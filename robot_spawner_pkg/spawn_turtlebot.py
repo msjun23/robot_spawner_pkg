@@ -29,7 +29,7 @@ def main():
 
     # Get path to the turtlebot3 burgerbot
     sdf_file_path = os.path.join(
-        get_package_share_directory("turtlebot3_gazebo"), "models",
+        get_package_share_directory("robot_spawner_pkg"), "models",
         "turtlebot3_waffle", "model.sdf")
 
     # Set data for request
