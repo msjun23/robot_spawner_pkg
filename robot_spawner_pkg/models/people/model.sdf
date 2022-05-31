@@ -29,9 +29,9 @@
         <pose>-0.064 0 0 0 0 1.57</pose>
         <geometry>
           <mesh>
-            <uri>model://turtlebot3_waffle/meshes/waffle_base.dae</uri>
-            <!-- <uri>model://people/model.dae</uri> -->
-            <scale>0.001 0.001 0.001</scale>
+            <!-- <uri>model://turtlebot3_waffle/meshes/waffle_base.dae</uri> -->
+            <uri>model://people/model.dae</uri>
+            <scale>0.5 0.5 0.5</scale>
           </mesh>
         </geometry>
       </visual>
@@ -62,9 +62,9 @@
         <pose>-0.064 0 0.08 0 0 0</pose>
         <geometry>
           <mesh>
-            <uri>model://turtlebot3_waffle/meshes/waffle_base.dae</uri>
+            <!-- <uri>model://turtlebot3_waffle/meshes/waffle_base.dae</uri> -->
             <!-- <uri>model://people/model.dae</uri> -->
-            <scale>0.001 0.001 0.001</scale>
+            <!-- <scale>0.001 0.001 0.001</scale> -->
           </mesh>
         </geometry>
       </visual>
@@ -120,8 +120,8 @@
         <pose>0.0 0.144 0.023 0 0 0</pose>
         <geometry>
           <mesh>
-            <uri>model://turtlebot3_waffle/meshes/tire.dae</uri>
-            <scale>0.001 0.001 0.001</scale>
+            <!-- <uri>model://turtlebot3_waffle/meshes/tire.dae</uri>
+            <scale>0.001 0.001 0.001</scale> -->
           </mesh>
         </geometry>
       </visual>
@@ -175,8 +175,8 @@
         <pose>0.0 -0.144 0.023 0 0 0</pose>
         <geometry>
           <mesh>
-            <uri>model://turtlebot3_waffle/meshes/tire.dae</uri>
-            <scale>0.001 0.001 0.001</scale>
+            <!-- <uri>model://turtlebot3_waffle/meshes/tire.dae</uri>
+            <scale>0.001 0.001 0.001</scale> -->
           </mesh>
         </geometry>
       </visual>
