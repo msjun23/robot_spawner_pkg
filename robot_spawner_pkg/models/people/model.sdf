@@ -23,13 +23,13 @@
         <pose>-0.064 0 0.048 0 0 0</pose>
         <geometry>
           <box>
-            <size>0.265 0.265 0.089</size>
+            <size>0.265 0.265 0.89</size>
           </box>
         </geometry>
       </collision>
 
       <visual name="base_visual">
-        <pose>-0.064 0 0 0 0 1.57</pose>
+        <pose>-0.064 0 -0.4 0 0 1.57</pose>
         <geometry>
           <mesh>
             <!-- <uri>model://turtlebot3_waffle/meshes/waffle_base.dae</uri> -->
